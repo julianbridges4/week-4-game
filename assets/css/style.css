@@ -10,3 +10,7 @@ body {
 .jumbotron {
 	background: rgba(200, 54, 54, .5);
 }
+
+img:hover {
+	opacity: .5
+}
